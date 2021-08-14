@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent" android:layout_height="match_parent">
+<ImageView
+    android:id="@+id/ivLogo"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="40dp"
+    android:layout_marginBottom="16dp"
+
+    />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Halaman Register"
+    android:gravity="center"
+    android:id="@+id/tvHal_reg"
+    android:layout_below="@+id/ivLogo"
+    />
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Nama"
+    android:paddingTop="25dp"
+    android:layout_marginTop="10sp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/etNama"
+    android:layout_below="@+id/tvHal_reg"
+    />
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="NIM"
+    android:paddingTop="25dp"
+    android:layout_marginTop="10sp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/etNim"
+    android:layout_below="@+id/etNama"
+    />
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Kelas"
+    android:paddingTop="25dp"
+    android:layout_marginTop="10sp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/etkelas"
+    android:layout_below="@+id/etNim"
+    />
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Deskripsi"
+    android:paddingTop="25dp"
+    android:layout_marginTop="10sp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/etDeskripsi"
+    android:layout_below="@+id/etkelas"
+    />
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Password"
+    android:paddingTop="25dp"
+    android:layout_marginTop="10sp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/etPass_reg"
+    android:layout_below="@+id/etDeskripsi"
+    />
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Register"
+    android:id="@+id/btnRegister"
+    android:layout_below="@+id/etPass_reg"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:textColor="#fff"
+    android:backgroundTint="#6c757d"
+    />
+</RelativeLayout>

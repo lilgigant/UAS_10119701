@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UAS_10119701</string>
+
+
+
+
+    <string name="about">
+
+        Aplikasi ini berisi profile saya dan juga berupa rekomendasi tempat wisata yang ada di indonesia dan juga sebagai
+        sarana praktek pemrograman untuk membuat aplikasi android mobile
+    </string>
+    <string name="Dusun">
+       Dusun Bambu, merupakan taman rekreasi berbasis ecotourism di Jawa Barat dengan konsep ‘Private Sanctuary Lifestyle’ (Konsep Wisata Sehat).
+        Melalui konsep ini,
+        Memadukan keindahan alam dan budaya tradisional, fasilitas di Dusun Bambu didesain untuk pengalaman wisata alam yang paling berkesan, mulai dari berjalan-jalan santai, bersepeda, menikmati kuliner lezat di tengah pesona alam,
+        hingga mengunjungi replika pedesaan tradisional.Terdapat pula kapasitas kunjungan harian ke Dusun Bambu untuk memastikan bahwa anjuran social distancing tetap dijalankan. Dengan begitu,
+        Dusun Bambu siap menjamin keselamatan kunjungan wisata Anda menyajikan pengalaman kunjungan yang tak tergantikan dan penjelajahan rasa yang memuaskan hati.
+    </string>
+
+    <string name="Cikole">
+        Cikole Jaya Giri adalah Tempat yang menawarkan pemandangan alam hutan pinus yang hijau dan menyejukan mata bagi siapa pun yang melihatnya,
+        suhu udara yang sangat sejuk, segar dan yang akan membuat tubuh anda akan menjadi bugar kembali.
+    </string>
+    <string name="Perahu">
+        Tangkuban Perahu,
+        Gunung Tangkuban Parahu memiliki pesona, berupa hadirnya 9 kawah yang ada di wilayahnya. Kawah-kawah tersebut adalah Kawah Ratu, Upas, Domas, Baru, Jurig, Badak, Jurian, Siluman dan Pangguyungan Badak.
+        Tiga kawah terbesar dengan diameter sekitar 500 meter menjadi tujuan utama wisata, yakni Kawah Ratu, Domas, dan Upas
+    </string>
+</resources>
